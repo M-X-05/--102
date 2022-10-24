@@ -7,9 +7,12 @@
 # 银河系天文大会
 
 - 2022/10/15 [第1届银河系天文大会](Congress/Congress1/Congress1.md)
+- 2022/10/15 [第2届银河系天文大会](Congress/Congress1/Congress1.md)
 
 # 集体观星
 
 - 2022/10/16 [天文台观星](Observation/Observation1/Observation1.md)
 - 2022/10/16 [西大操场观星](Observation/Observation2/Observation2.md)
 - 2022/10/17 [课后观星](Observation/Observation3/Observation3.md)
+- 2022/10/22 [西大操场观星](Observation/Observation4/Observation4.md)
+- 2022/10/23 [天文台观星](Observation/Observation5/Observation5.md)
